@@ -51,4 +51,4 @@ like you normally would with Django - MongoDB is schema-free!
 
 Dependencies
 ============
-You'll need Django, MongoDB and PyMongo installed to run DjanMon.
+You'll need Django (any version earlier than 1.4 will work), MongoDB and PyMongo installed to run DjanMon.
